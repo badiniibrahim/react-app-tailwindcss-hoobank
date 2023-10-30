@@ -1,27 +1,33 @@
-# React + TypeScript + Vite
+## Build React app with tailwindCSS
+This is a repository for a React application, Tailwind CSS to highlight my skills in Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ <h1 align="center">
+  SAWADOGO Badini Ibrahim
+</h1>
 
-Currently, two official plugins are available:
+[![GitHub badiniibrahim](https://img.shields.io/github/followers/badiniibrahim?label=follow&style=social)](https://github.com/badiniibrahim)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![Gmail Badge](https://img.shields.io/badge/-sawadogo.badiniibrahim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=sawadogo.badiniibrahim@gmail.com)](mailto:sawadogo.badiniibrahim@gmail.com)
 
-## Expanding the ESLint configuration
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badini-ibrahim-s-306b119b/)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## About this Repository
+![GitHub language count](https://img.shields.io/github/languages/count/badiniibrahim/react-app-tailwindcss-hoobank)
+![GitHub top language](https://img.shields.io/github/languages/top/badiniibrahim/react-app-tailwindcss-hoobank)
+![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/react-app-tailwindcss-hoobank)
+![Github Repo Size](https://img.shields.io/github/repo-size/badiniibrahim/react-app-tailwindcss-hoobank)
 
-- Configure the top-level `parserOptions` property like this:
+# Figma design link
+https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?type=design&node-id=310-485&mode=design&t=culzpeBPiSSGhACh-0
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+# App link
+https://react-app-tailwindcss-cardio-leading-iqndhleva.vercel.app/
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+# Technologies
+- React js
+- Beautiful layouts with TailwindCSS
+- Create reusable components
+  
+# Screenshot
+![alt text](1.png)
+
