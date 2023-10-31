@@ -1,5 +1,7 @@
 ## Build React app with tailwindCSS
-This is a repository for a React application, Tailwind CSS to highlight my skills in Tailwind CSS
+This repository is dedicated to a React application where I integrated Tailwind CSS to highlight my skills in this area. Tailwind CSS is a very powerful CSS framework that simplifies and accelerates UI development. This repository is a demonstration of my expertise in using it to create attractive and responsive interfaces. I'm happy to share my work and web development skills with the community.
+
+
 
  <h1 align="center">
   SAWADOGO Badini Ibrahim
